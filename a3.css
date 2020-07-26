@@ -1,0 +1,122 @@
+*{
+    font-family: "montserrat",sans-serif;
+}
+body{
+    background: url(2.jpg);
+
+}
+.but{
+    border-radius:50px;
+    position:absolute;
+   
+    background-color: rgba(0, 0, 0, 0.14); 
+    padding: 70px 70px;       
+}
+
+      
+
+
+.img{
+    margin-left:20px; 
+	margin-right: 70px;
+    border-radius: 50%;
+}
+.center{
+    border-radius:20px;
+    position:absolute;
+   bottom:400px;
+    left: 950px;
+   
+    
+    background-color: rgba(0, 0, 0, 0.14); 
+    padding: 5px 5px;  
+    
+    border: 1px solid #A9A9A9;
+	
+}
+.table{
+  
+    position:absolute;
+   bottom:50px;
+    left: 950px;
+    top: 200px;
+    
+    
+    
+    border: 1px solid #A9A9A9;
+
+}
+
+   
+
+
+.border{
+    border-radius:50px;
+    position:absolute;
+    bottom:50px;
+    left: 950px;
+    top: 200px;
+    
+    
+    background-color: rgba(0, 0, 0, 0.14); 
+    padding: 10px 10px;  
+    
+    border: 1px solid #A9A9A9;
+	
+       
+}
+.but1{ 
+    border 1 px solid #ff0000;
+    padding: 15px;
+    color: #fff;
+    background:#ff0000;
+    border-radius: 5px;
+    transition: all 0.5s; 
+   
+   
+}
+.but1:hover{ 
+    border 1 px solid #ff0000;
+    padding: 15px;
+    color:#ff0000 ;
+    background:#fff;
+    border-radius: 5px;
+    transition: all 0.5s;   
+}
+.but2{ 
+    border 1 px solid #ff4500;
+    padding: 15px;
+    color: #fff;
+    background:#ff4500;
+    border-radius: 5px;
+    transition: all 0.5s; 
+   
+   
+}
+.but2:hover{ 
+    border 1 px solid #ff4500;
+    padding: 15px;
+    color: #ff4500;
+    background:#fff;
+    border-radius: 5px;
+    transition: all 0.5s;   
+}
+
+.but3{ 
+    border 1 px solid #ffD700;
+    padding: 15px;
+    color: #fff;
+    background:#ffD700;
+    border-radius: 5px;
+    transition: all 0.5s;
+   
+}
+.but3:hover{ 
+    border 1 px solid #ffD700;
+    padding: 15px;
+    color: #ffD700;
+    background:#fff;
+    border-radius: 5px;
+    transition: all 0.5s; 
+    
+}
